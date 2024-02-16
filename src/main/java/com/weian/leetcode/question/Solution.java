@@ -1,7 +1,7 @@
 package com.weian.leetcode.question;
 
 /**
- * 整数反转 123
+ * 整数反转 1233
  * @author Weian
  * @date 2024/2/16
  */
